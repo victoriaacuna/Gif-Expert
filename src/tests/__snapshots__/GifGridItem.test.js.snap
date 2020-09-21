@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas componente Gif Grid Item Should match snapshot 1`] = `
+<div
+  className="card animate__animated animate__bounce"
+>
+  <img
+    alt="un titulo"
+    src="https://localhost:3000/algo.jpg"
+  />
+  <p>
+    un titulo
+  </p>
+</div>
+`;
